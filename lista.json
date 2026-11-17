@@ -1,7 +1,7 @@
 {
   "app": "mystreaming",
   "version": 1,
-  "saved": "2026-11-17T21:24:29.142Z",
+  "saved": "2026-11-17T21:24:43.099Z",
   "items": [
     {
       "season": 1,
@@ -91,11 +91,11 @@
       "poster": "/aWfjIkpENFX6Uw82pET7EQ6jnrd.jpg"
     },
     {
-      "season": 1,
-      "episode": 1,
+      "season": 2,
+      "episode": 9,
       "rating": 0,
       "category": "Kriminal",
-      "updated": 1794948727575,
+      "updated": 1794950679605,
       "id": "mwl2s6s15ijt62xvb3k",
       "title": "MobLand",
       "year": "2025",
