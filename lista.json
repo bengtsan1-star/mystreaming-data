@@ -1,7 +1,7 @@
 {
   "app": "mystreaming",
   "version": 1,
-  "saved": "2026-11-18T06:50:58.544Z",
+  "saved": "2026-11-18T06:51:54.899Z",
   "items": [
     {
       "season": 1,
@@ -117,7 +117,7 @@
         "name": "Avsnitt 10"
       },
       "showStatus": "Returning Series",
-      "checked": 1794950650269,
+      "checked": 1794984714724,
       "alert": false,
       "poster": "/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg"
     }
