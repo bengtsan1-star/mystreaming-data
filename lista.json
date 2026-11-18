@@ -1,7 +1,7 @@
 {
   "app": "mystreaming",
   "version": 1,
-  "saved": "2026-11-18T07:31:09.654Z",
+  "saved": "2026-11-18T07:31:32.127Z",
   "items": [
     {
       "id": "mwlsycc2y51sm1o7l0g",
@@ -9,14 +9,14 @@
       "episode": 1,
       "rating": 0,
       "category": "Action",
-      "updated": 1794987066098,
+      "updated": 1794987088732,
       "title": "The Dark Knight Rises",
       "year": "2012",
       "tmdbId": "movie:49026",
       "poster": "/hr0L2aueqlP2BYUblTTjmtn0hw4.jpg",
       "service": "Viaplay",
       "type": "film",
-      "status": "want"
+      "status": "done"
     },
     {
       "season": 1,
