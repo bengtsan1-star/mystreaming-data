@@ -1,23 +1,9 @@
 {
   "app": "mystreaming",
   "version": 1,
-  "saved": "2026-11-18T13:58:13.420Z",
+  "owner": "",
+  "saved": "2026-11-18T14:04:20.416Z",
   "items": [
-    {
-      "id": "mwlsycc2y51sm1o7l0g",
-      "season": 1,
-      "episode": 1,
-      "rating": 0,
-      "category": "Action",
-      "updated": 1794987088732,
-      "title": "The Dark Knight Rises",
-      "year": "2012",
-      "tmdbId": "movie:49026",
-      "poster": "/hr0L2aueqlP2BYUblTTjmtn0hw4.jpg",
-      "service": "Viaplay",
-      "type": "film",
-      "status": "done"
-    },
     {
       "season": 1,
       "episode": 1,
@@ -132,9 +118,24 @@
         "name": "Avsnitt 10"
       },
       "showStatus": "Returning Series",
-      "checked": 1795010290007,
+      "checked": 1795010660034,
       "alert": false,
       "poster": "/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg"
+    },
+    {
+      "season": 1,
+      "episode": 1,
+      "rating": 0,
+      "category": "Action",
+      "updated": 1794987088732,
+      "id": "mwlsycc2y51sm1o7l0g",
+      "title": "The Dark Knight Rises",
+      "year": "2012",
+      "tmdbId": "movie:49026",
+      "poster": "/hr0L2aueqlP2BYUblTTjmtn0hw4.jpg",
+      "service": "Viaplay",
+      "type": "film",
+      "status": "done"
     }
   ],
   "deleted": {}
