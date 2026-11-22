@@ -2,7 +2,7 @@
   "app": "mystreaming",
   "version": 1,
   "owner": "",
-  "saved": "2026-11-22T15:27:34.222Z",
+  "saved": "2026-11-22T15:29:01.536Z",
   "items": [
     {
       "season": 1,
@@ -107,19 +107,14 @@
       "notFound": false,
       "latest": {
         "s": 2,
-        "e": 9,
-        "date": "2026-11-13",
-        "name": "Avsnitt 9"
-      },
-      "next": {
-        "s": 2,
         "e": 10,
         "date": "2026-11-20",
         "name": "Avsnitt 10"
       },
+      "next": null,
       "showStatus": "Returning Series",
-      "checked": 1795010660034,
-      "alert": false,
+      "checked": 1795361341405,
+      "alert": true,
       "poster": "/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg"
     },
     {
