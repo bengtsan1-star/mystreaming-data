@@ -2,8 +2,23 @@
   "app": "mystreaming",
   "version": 1,
   "owner": "",
-  "saved": "2026-11-22T15:29:04.737Z",
+  "saved": "2026-11-22T15:33:07.184Z",
   "items": [
+    {
+      "id": "mwrzxk302yq3cw8g3xw",
+      "season": 1,
+      "episode": 1,
+      "rating": 0,
+      "category": "",
+      "updated": 1795361583852,
+      "title": "The Bureau",
+      "year": "2009",
+      "tmdbId": "tv:26921",
+      "poster": "/noxbt8KgVz21vdLINfQ5P1CmflS.jpg",
+      "service": "Annan",
+      "type": "serie",
+      "status": "want"
+    },
     {
       "season": 1,
       "episode": 1,
