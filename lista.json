@@ -2,8 +2,23 @@
   "app": "mystreaming",
   "version": 1,
   "owner": "",
-  "saved": "2026-11-22T15:39:56.132Z",
+  "saved": "2026-11-22T15:40:10.724Z",
   "items": [
+    {
+      "id": "mws06mt9j5l6iy3zcui",
+      "season": 1,
+      "episode": 1,
+      "rating": 0,
+      "category": "Dokumentär",
+      "updated": 1795362007293,
+      "title": "Mary Queen of Scots hemliga brev",
+      "year": "2025",
+      "tmdbId": "movie:1568622",
+      "poster": "/fbF5kpG3SUBAeo9RVEwbCd0Am3s.jpg",
+      "service": "SVT Play",
+      "type": "film",
+      "status": "want"
+    },
     {
       "id": "mws06bghcv13q9ojikj",
       "season": 1,
