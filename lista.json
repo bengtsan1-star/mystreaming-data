@@ -2,8 +2,23 @@
   "app": "mystreaming",
   "version": 1,
   "owner": "",
-  "saved": "2026-11-22T15:34:15.781Z",
+  "saved": "2026-11-22T15:39:56.132Z",
   "items": [
+    {
+      "id": "mws06bghcv13q9ojikj",
+      "season": 1,
+      "episode": 1,
+      "rating": 0,
+      "category": "Drama",
+      "updated": 1795361992577,
+      "title": "Mary Queen of Scots",
+      "year": "2018",
+      "tmdbId": "movie:457136",
+      "poster": "/b5RMzLAyq5QW6GtN9sIeAEMLlBI.jpg",
+      "service": "Disney Plus",
+      "type": "film",
+      "status": "want"
+    },
     {
       "id": "mwrzxk302yq3cw8g3xw",
       "season": 1,
