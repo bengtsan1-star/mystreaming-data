@@ -1,0 +1,9 @@
+{
+  "app": "mystreaming",
+  "version": 1,
+  "kdf": "PBKDF2-SHA256",
+  "iterations": 600000,
+  "salt": "pZZoBX8juXH+CaXQNtVVJQ==",
+  "iv": "hrJ2MTx8odtkTC5h",
+  "data": "3XyVgG5UgQ6uI3rxsoEbNUWYH4Mddyk5U0XKw+kDG70Rg7Hc3ZTxyf/4+I8LhPxaBRlUYARBmml/QJuHlya7QbNAB1xTbKW1+fyFAtgguJEWgPNd8IRnT3keXMLfjqwyUNEGOQz0YZg2TqZ3pKkl1guNEJq9TrnpIJxzPaJJVuqjF5LKKQCYM/TzGD7FmS5uX7mOUAuQ+7kbuEBioYxmq3aAaxBMEKAAHlq4RjhPZR91XTJzZsD2yhwz5HOSe/cYorSU+e/2AkM4mr1ilUrH9/nVqeyslQaJxZReu+awFS/GtRVImlhv"
+}
