@@ -2,8 +2,23 @@
   "app": "mystreaming",
   "version": 1,
   "owner": "",
-  "saved": "2026-11-23T07:07:12.195Z",
+  "saved": "2026-11-23T07:08:33.382Z",
   "items": [
+    {
+      "id": "mwsxcjptvrblh7a5pi",
+      "season": 1,
+      "episode": 1,
+      "rating": 0,
+      "category": "Drama",
+      "updated": 1795417710545,
+      "title": "Kärlek på italienska",
+      "year": "2010",
+      "tmdbId": "movie:41110",
+      "poster": "/ubuWUolumhpVprZiXWbbvaeFU7r.jpg",
+      "service": "Cineasterna",
+      "type": "film",
+      "status": "want"
+    },
     {
       "season": 1,
       "episode": 1,
