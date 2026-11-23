@@ -2,15 +2,15 @@
   "app": "mystreaming",
   "version": 1,
   "owner": "",
-  "saved": "2026-11-22T21:52:16.191Z",
+  "saved": "2026-11-23T07:07:12.195Z",
   "items": [
     {
-      "id": "mwsdgsjrdh7ctandskc",
       "season": 1,
       "episode": 1,
       "rating": 0,
       "category": "Drama",
       "updated": 1795384316295,
+      "id": "mwsdgsjrdh7ctandskc",
       "title": "Wallander",
       "year": "2005",
       "tmdbId": "tv:31766",
@@ -20,12 +20,12 @@
       "status": "want"
     },
     {
-      "id": "mwsdfk6el0xzczitsl",
       "season": 1,
       "episode": 1,
       "rating": 0,
       "category": "",
       "updated": 1795384258790,
+      "id": "mwsdfk6el0xzczitsl",
       "title": "queen",
       "service": "Netflix",
       "type": "serie",
