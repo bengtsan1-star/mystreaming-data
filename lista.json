@@ -2,8 +2,23 @@
   "app": "mystreaming",
   "version": 1,
   "owner": "",
-  "saved": "2026-11-23T11:50:50.809Z",
+  "saved": "2026-11-23T11:51:00.345Z",
   "items": [
+    {
+      "id": "mwt7fsqbcjm0xrneihw",
+      "season": 1,
+      "episode": 1,
+      "rating": 0,
+      "category": "Drama",
+      "updated": 1795434658355,
+      "title": "Djupt vatten",
+      "year": "2022",
+      "tmdbId": "movie:619979",
+      "poster": "/7rwkzjfCPmZDWpEm2vuK9ovH5S7.jpg",
+      "service": "Amazon Prime Video",
+      "type": "film",
+      "status": "want"
+    },
     {
       "id": "mwt7fl830d7mrwbwe3vq",
       "season": 1,
