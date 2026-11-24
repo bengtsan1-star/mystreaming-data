@@ -2,8 +2,23 @@
   "app": "mystreaming",
   "version": 1,
   "owner": "",
-  "saved": "2026-11-24T08:16:22.015Z",
+  "saved": "2026-11-24T08:17:14.266Z",
   "items": [
+    {
+      "id": "mwuf8qbypgfc9zxlbfp",
+      "season": 1,
+      "episode": 1,
+      "rating": 0,
+      "category": "Sci-Fi & Fantasy",
+      "updated": 1795508231758,
+      "title": "Blade Runner 2099",
+      "year": "2026",
+      "tmdbId": "tv:171802",
+      "poster": "/qAcXaAoJiYry9nGEyxTirnJ82Jj.jpg",
+      "service": "Annan",
+      "type": "serie",
+      "status": "want"
+    },
     {
       "id": "mwt7fsqbcjm0xrneihw",
       "season": 1,
