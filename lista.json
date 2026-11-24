@@ -2,8 +2,23 @@
   "app": "mystreaming",
   "version": 1,
   "owner": "",
-  "saved": "2026-11-24T13:40:55.822Z",
+  "saved": "2026-11-24T13:41:14.474Z",
   "items": [
+    {
+      "id": "mwuqtev5krd76d0plbm",
+      "season": 1,
+      "episode": 1,
+      "rating": 0,
+      "category": "Drama",
+      "updated": 1795527672449,
+      "title": "Gråzon",
+      "year": "2018",
+      "tmdbId": "tv:77484",
+      "poster": "/ifUg2R2a0TcLC1aCWY3aZmDhfgT.jpg",
+      "service": "Tele2 Play",
+      "type": "serie",
+      "status": "want"
+    },
     {
       "id": "mwsdgsjrdh7ctandskc",
       "season": 1,
