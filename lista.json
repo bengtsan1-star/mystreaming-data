@@ -2,8 +2,23 @@
   "app": "mystreaming",
   "version": 1,
   "owner": "",
-  "saved": "2026-11-26T21:18:09.545Z",
+  "saved": "2026-11-26T21:19:52.621Z",
   "items": [
+    {
+      "id": "mwy22xmkxf0fp78vflp",
+      "season": 1,
+      "episode": 1,
+      "rating": 0,
+      "category": "Thriller",
+      "updated": 1795727990972,
+      "title": "The Girl with the Dragon Tattoo",
+      "year": "2011",
+      "tmdbId": "movie:65754",
+      "poster": "/8bokS83zGdhaXgN9tjidUKmAftW.jpg",
+      "service": "Amazon Prime Video",
+      "type": "film",
+      "status": "want"
+    },
     {
       "id": "mwy20q5bq3jqjj96sk",
       "season": 1,
