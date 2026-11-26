@@ -2,8 +2,23 @@
   "app": "mystreaming",
   "version": 1,
   "owner": "",
-  "saved": "2026-11-26T21:17:47.435Z",
+  "saved": "2026-11-26T21:18:09.545Z",
   "items": [
+    {
+      "id": "mwy20q5bq3jqjj96sk",
+      "season": 1,
+      "episode": 1,
+      "rating": 0,
+      "category": "Drama",
+      "updated": 1795727887967,
+      "title": "Flickan som lekte med elden",
+      "year": "2009",
+      "tmdbId": "movie:24253",
+      "poster": "/qRawsllFDrNlzUpcvuVxiy4w9AT.jpg",
+      "service": "Netflix",
+      "type": "film",
+      "status": "want"
+    },
     {
       "id": "mwuf8qbypgfc9zxlbfp",
       "season": 1,
